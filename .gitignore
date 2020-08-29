@@ -1,3 +1,6 @@
 /bin/
 /blancoSqlFormatter-*-src.zip
 /tmp/
+*.iml
+/target
+/.idea
